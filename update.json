@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "2.10",
-  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.10.apk",
-  "note": "主题包升级为ZIP格式（theme.json+背景图+图标PNG）；新增7套壁纸主题；新增卡片透明度调节；修复Dock高亮错位；检查更新自动填官方更新源"
+  "versionCode": 24,
+  "versionName": "2.13",
+  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.13.apk",
+  "note": "新增自定义背景（相册选图，自动压缩并自动取色）；13个输入框前缀图标适配动态图标，聚焦播放动画；图标动画放缓并改用柔和缓动曲线"
 }
