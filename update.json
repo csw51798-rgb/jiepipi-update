@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "2.8",
-  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.8.apk",
-  "note": "v2.8：新增「超级俱乐部」主题；修复震动与内置键盘；查询命中高亮；应用内检查更新"
+  "versionCode": 20,
+  "versionName": "2.10",
+  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.10.apk",
+  "note": "主题包升级为ZIP格式（theme.json+背景图+图标PNG）；新增7套壁纸主题；新增卡片透明度调节；修复Dock高亮错位"
 }
