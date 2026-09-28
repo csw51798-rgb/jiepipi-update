@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "2.15",
-  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.15.apk",
-  "note": "Dock 图标固定 26px 不再顶破底栏，选中高亮胶囊随图标对齐；内置数字键盘改为正向排列 123/456/789；删除简约计算器；点击动画只保留 Dock；卡片透明度 0-100%，新增输入框透明度；「结批模式」标签加圆角底；全局图标换成 iconfont 思迅官方线性图标库。"
+  "versionCode": 27,
+  "versionName": "2.16",
+  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.16.apk",
+  "note": "自定义背景改为「原图」：不再压缩、不再裁成 540×960，选中哪张就用哪张，画质跟相册里一致（原图只存本机不上传），图标仍会自动从这张原图拾取主色。"
 }
