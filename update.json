@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "2.16",
-  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.16.apk",
-  "note": "自定义背景改为「原图」：不再压缩、不再裁成 540×960，选中哪张就用哪张，画质跟相册里一致（原图只存本机不上传），图标仍会自动从这张原图拾取主色。"
+  "versionCode": 28,
+  "versionName": "2.17",
+  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.17.apk",
+  "note": "修复换背景后图标不自动拾色（此前取色拿到的是空地址，一直回退主题蓝）；透明度加固：深色模式下输入框透明度真正生效、滑杆改为全局监听更稳；Dock 图标加固：挂载失败自动补挂不再缺失；Dock 点击动画明显减弱。"
 }
