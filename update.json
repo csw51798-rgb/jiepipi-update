@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "2.13",
-  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.13.apk",
-  "note": "新增自定义背景（相册选图，自动压缩并自动取色）；13个输入框前缀图标适配动态图标，聚焦播放动画；图标动画放缓并改用柔和缓动曲线"
+  "versionCode": 25,
+  "versionName": "2.14",
+  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.14.apk",
+  "note": "修复「点检查更新没反应 / 不会下载新版本」：App 内提示框改为原生对话框（此前被 WebView 静默吞掉），更新源自动镜像回源（直连 GitHub 不通时走加速镜像），检查更新加超时提醒；内置数字键盘新增「收起」键与符号页（#±），确认键会先算算式再跳下一栏；BIN1/BIN2 良品数输入框并入各自的计算卡片，顺序 盘数→整盘→首盘→尾盘→良品数，来料下方不再单列 BIN1。"
 }
