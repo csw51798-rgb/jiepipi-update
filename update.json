@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "2.14",
-  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.14.apk",
-  "note": "修复「点检查更新没反应 / 不会下载新版本」：App 内提示框改为原生对话框（此前被 WebView 静默吞掉），更新源自动镜像回源（直连 GitHub 不通时走加速镜像），检查更新加超时提醒；内置数字键盘新增「收起」键与符号页（#±），确认键会先算算式再跳下一栏；BIN1/BIN2 良品数输入框并入各自的计算卡片，顺序 盘数→整盘→首盘→尾盘→良品数，来料下方不再单列 BIN1。"
+  "versionCode": 26,
+  "versionName": "2.15",
+  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.15.apk",
+  "note": "Dock 图标固定 26px 不再顶破底栏，选中高亮胶囊随图标对齐；内置数字键盘改为正向排列 123/456/789；删除简约计算器；点击动画只保留 Dock；卡片透明度 0-100%，新增输入框透明度；「结批模式」标签加圆角底；全局图标换成 iconfont 思迅官方线性图标库。"
 }
