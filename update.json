@@ -1,6 +1,6 @@
 {
   "versionCode": 30,
-  "versionName": "2.20",
-  "url": "https://github.com/csw51798-rgb/jiepipi-update/raw/main/jiepipi_2.20.apk",
+  "versionName": "2.19",
+  "url": "https://github.com/csw51798-rgb/jiepipi-update/raw/main/jiepipi_2.19.apk",
   "note": "v2.18：Summary 页新增机台产量计算（两级筛选 + UPH + 对班产量 + 是否卸载程序开关）；每 3 小时自动核对产量是否达标；自定义背景新增模糊程度滑杆；修复卡片/输入框透明度设置不生效的问题。"
 }
