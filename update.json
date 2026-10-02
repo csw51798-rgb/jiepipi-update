@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "2.21",
-  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.21.apk",
-  "note": "v2.21：机台选择改为框内点选（品牌/编号用内联标签按钮，不再弹出系统选择器）；其余沿用 2.20 的机台产出独立模块、Dock「产量」改名、玻璃拟态 UI、3 套内置主题、Bug 修复。"
+  "versionCode": 33,
+  "versionName": "2.22",
+  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.22.apk",
+  "note": "v2.22：机台选择改为框内点选（品牌/编号用内联标签按钮，不再弹系统选择器）；版本号提升一档，修复「已安装同版本」导致覆盖安装失败的问题。其余沿用 2.20 的机台产出独立模块、Dock「产量」改名、玻璃拟态 UI、3 套内置主题、Bug 修复。"
 }
