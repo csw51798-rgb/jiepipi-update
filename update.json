@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "2.17",
-  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.17.apk",
-  "note": "修复换背景后图标不自动拾色（此前取色拿到的是空地址，一直回退主题蓝）；透明度加固：深色模式下输入框透明度真正生效、滑杆改为全局监听更稳；Dock 图标加固：挂载失败自动补挂不再缺失；Dock 点击动画明显减弱。"
+  "versionCode": 29,
+  "versionName": "2.18",
+  "url": "https://github.com/csw51798-rgb/jiepipi-update/raw/main/jiepipi_2.18.apk",
+  "note": "v2.18：Summary 页新增机台产量计算（两级筛选 + UPH + 对班产量 + 是否卸载程序开关）；每 3 小时自动核对产量是否达标；自定义背景新增模糊程度滑杆；修复卡片/输入框透明度设置不生效的问题。"
 }
