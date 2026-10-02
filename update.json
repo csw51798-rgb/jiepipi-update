@@ -1,6 +1,0 @@
-{
-  "versionCode": 31,
-  "versionName": "2.20",
-  "url": "https://github.com/csw51798-rgb/jiepipi-update/raw/main/jiepipi_2.20.apk",
-  "note": "v2.20：机台产出独立成单独模块；底部 Dock「Summary」改为「产量」；全局玻璃拟态 UI（顶栏/Dock/卡片/输入框半透明磨砂，自定义背景下顶栏与 Dock 透出背景）；内置主题精简为 3 套（极光白/深空黑/暖阳橙），保留自定义配色；修复「关闭动态图标+自定义背景时 Dock 图标缺失」及「透明度滑杆设为 0 反而变不透明」。"
-}
