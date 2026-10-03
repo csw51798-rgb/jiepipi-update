@@ -1,0 +1,6 @@
+{
+  "versionCode": 35,
+  "versionName": "2.24",
+  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.24.apk",
+  "note": "v2.24：机台选择改为点品牌→弹窗选机号（非系统选择器）；多看机台——选完自动加入今日机台清单，每台独立算目标产量并逐台显示目标/已产/差额，底部合计；UI 强调色跟随自定义背景主色；修复选中态白字透明不可见"
+}
