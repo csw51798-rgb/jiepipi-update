@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "2.30",
-  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.30.apk",
-  "note": "v2.30：开发者二维码空白修复（Otsu 自适应二值化 + 定位图案中心行反推模块 + 投影剖面定位边界 + 3x3 多数表决采样 + 定时/定位图案校验，失败自动回退原图）；重绘提升到 480x480 矢量重绘并跟随强调色"
+  "versionCode": 42,
+  "versionName": "2.31",
+  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.31.apk",
+  "note": "v2.31：修复聊天气泡图导入点了没反应（WebView 未接 onShowFileChooser，HTML file input 在安卓无效；新增原生 pickBubbleImage 通道，图片统一缩到宽≤1000px、PNG 超限自动转 JPEG，并提示原图尺寸/比例问题）；修复内置数字键盘确认键被固定高度卡住跨行拉不高、右边留空三行的问题（改为自动高度+垂直居中，真正撑满右手侧整列）"
 }
