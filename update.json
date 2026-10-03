@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "2.27",
-  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.27.apk",
-  "note": "v2.27：修复开发者二维码空白（自动识别暗区包围盒+定位图案反推模块尺寸，失败自动回落原图）；良品计算/整盘Summary/产量结果/提示条白底接入卡片透明度滑杆；内置键盘确认键移到右手侧独占一列并加大、0 键加宽；机台清单 UPH/对班/当前产量改用内置数字键盘；气泡素材补充 750x420(9:5) 尺寸规范与选图校验提示"
+  "versionCode": 39,
+  "versionName": "2.28",
+  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.28.apk",
+  "note": "v2.28：顶栏下方新增「产量 / Summary」左右切换条，整盘 Summary 独立成一个视图，两个视图一键左右切换、滚动时吸顶；Dock 仍为 首页/查询/产量/我的 四键，点产量默认回机台产量"
 }
