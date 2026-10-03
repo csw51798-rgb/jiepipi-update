@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "2.28",
-  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.28.apk",
-  "note": "v2.28：顶栏下方新增「产量 / Summary」左右切换条，整盘 Summary 独立成一个视图，两个视图一键左右切换、滚动时吸顶；Dock 仍为 首页/查询/产量/我的 四键，点产量默认回机台产量"
+  "versionCode": 40,
+  "versionName": "2.29",
+  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.29.apk",
+  "note": "v2.29：配色扩充到 16 套，新增 蜜桃乌龙/抹茶森林/柠檬苏打/珊瑚粉橘/雾霭灰蓝 5 套浅色 + 奶盖可可/星夜莓紫/墨黑鎏金 3 套深色；顶栏下方新增 产量/Summary 左右切换条"
 }
