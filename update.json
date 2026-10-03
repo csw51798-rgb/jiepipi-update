@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "2.26",
-  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.26.apk",
-  "note": "v2.26：修复导入气泡点了没反应（改为可粘贴 bubble.json，文件选择不再被系统过滤挡住）；导出气泡素材包必定产出 ZIP，内含 bubble.json + bubble.png（无自定义图时自动生成标准气泡 PNG 供替换）；开发者二维码改为风格化圆点码，随强调色/配色实时变色；HMTS 机台号修正为 001-006；机台号弹窗改为不透明面板，不受玻璃与卡片透明度影响"
+  "versionCode": 38,
+  "versionName": "2.27",
+  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.27.apk",
+  "note": "v2.27：修复开发者二维码空白（自动识别暗区包围盒+定位图案反推模块尺寸，失败自动回落原图）；良品计算/整盘Summary/产量结果/提示条白底接入卡片透明度滑杆；内置键盘确认键移到右手侧独占一列并加大、0 键加宽；机台清单 UPH/对班/当前产量改用内置数字键盘；气泡素材补充 750x420(9:5) 尺寸规范与选图校验提示"
 }
