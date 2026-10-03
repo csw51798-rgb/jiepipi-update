@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "2.25",
-  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.25.apk",
-  "note": "v2.25：产量口径改正（本班产量=当前产量-对班产量，差额=本日应产出-当前产量）；机台号弹窗不再压暗背景；删除/关闭按钮居中对齐；默认配色不再被背景拾色覆盖（新增独立开关「界面强调色跟随背景」，默认关）；配色新增 5 套（薄荷苏打/樱花慕斯/芋泥啵啵/奶油蛋黄/海盐汽水）；主题商店 10 个内置主题已清空（导入导出与自定义背景照常）；不良品与结果区白底改为跟随卡片透明度滑杆；顶栏与 Dock 玻璃更通透（默认 35%）；新增聊天气泡输入框（可选气泡图、导出/导入气泡素材包）"
+  "versionCode": 37,
+  "versionName": "2.26",
+  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.26.apk",
+  "note": "v2.26：修复导入气泡点了没反应（改为可粘贴 bubble.json，文件选择不再被系统过滤挡住）；导出气泡素材包必定产出 ZIP，内含 bubble.json + bubble.png（无自定义图时自动生成标准气泡 PNG 供替换）；开发者二维码改为风格化圆点码，随强调色/配色实时变色；HMTS 机台号修正为 001-006；机台号弹窗改为不透明面板，不受玻璃与卡片透明度影响"
 }
