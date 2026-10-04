@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "2.31",
-  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.31.apk",
-  "note": "v2.31：修复聊天气泡图导入点了没反应（WebView 未接 onShowFileChooser，HTML file input 在安卓无效；新增原生 pickBubbleImage 通道，图片统一缩到宽≤1000px、PNG 超限自动转 JPEG，并提示原图尺寸/比例问题）；修复内置数字键盘确认键被固定高度卡住跨行拉不高、右边留空三行的问题（改为自动高度+垂直居中，真正撑满右手侧整列）"
+  "versionCode": 44,
+  "versionName": "2.33",
+  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.33.apk",
+  "note": "v2.33：气泡功能重构——内置 11 套气泡主题（来自你的素材包：蜜桃气泡/晴空物语/薄荷苏打/柠檬汽水/珊瑚日落/樱花团子/抹茶拿铁/海盐灰蓝/焦糖奶咖/星夜霓虹/原版参考），点卡片即换；新增小元素点缀开关（星星/爱心/圆点/闪光/表情/高光/问号/尾巴，实时合成进气泡图）；修复导入不了：新增原生导入素材包(ZIP)通道，支持你的 bubble.json+bubble.png+小元素 结构，导出同构 ZIP 可电脑改图后导回"
 }
