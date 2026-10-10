@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "2.34",
-  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.34.apk",
-  "note": "v2.34：气泡主题新增「星语气泡」——按你发的图用纯 JS 逐笔绘制：白底气泡+淡紫粗描边+浅蓝内芯，左上角奶黄五角星压角微转，左下小圆环与顶边小黑点还原原图；任意分辨率锐利，支持小元素点缀/缩略图/导出 ZIP，装饰元素自动借用同色系晴空物语一套"
+  "versionCode": 46,
+  "versionName": "2.35",
+  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.35.apk",
+  "note": "v2.35：修复气泡主题只剩默认——星语气泡脚本误嵌进气泡素材 script 块导致解析失败、11 款内置主题没注册上；现移为独立脚本块并清理历史遗留的重复闭合标签，script 标签全文件配平校验通过"
 }
