@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "2.35",
-  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.35.apk",
-  "note": "v2.35：修复气泡主题只剩默认——星语气泡脚本误嵌进气泡素材 script 块导致解析失败、11 款内置主题没注册上；现移为独立脚本块并清理历史遗留的重复闭合标签，script 标签全文件配平校验通过"
+  "versionCode": 47,
+  "versionName": "2.36",
+  "url": "https://raw.githubusercontent.com/csw51798-rgb/jiepipi-update/main/jiepipi_2.36.apk",
+  "note": "v2.36 气泡皮肤观感大修：修「压扁糊字」——旧版把 750×420 气泡素材硬拉进细长输入框，素材中央的主题名被压成色糊垫在输入内容后，圆角/描边/尾巴全部拉烂，还有双描边和切角。现已重写合成引擎：先擦除素材中央占位文字（周界取中位数颜色填平，自定义花图不误伤），再按输入框实际高度九宫格合成，四角保形、任意宽度不失真；CSS 圆角跟随高度、图片激活时隐藏 CSS 描边；焦点光圈跟随气泡描边色；修复切换主题后文字颜色残留。"
 }
